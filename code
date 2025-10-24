@@ -88,3 +88,4 @@ reg avgverb above40 x_above40 if inrange(school_enrollment,0,80), cluster (schlc
 
 capture log close
 
+
