@@ -12,7 +12,7 @@ This project uses a **Regression Discontinuity Design (RDD)** to estimate the ca
 
 ---
 
-## 📌 Research Questions
+## Research Questions
 
 1. *Does reducing class size improve student test scores?*  
 2. *Is there a visible discontinuity in class size at the 40-student enrollment threshold?*  
@@ -21,7 +21,7 @@ This project uses a **Regression Discontinuity Design (RDD)** to estimate the ca
 
 ---
 
-## 📈 Methods
+## Methods
 
 | Component | Method Used |
 |-----------|------------|
@@ -35,7 +35,7 @@ Identification assumption: **Covariates must evolve smoothly at the cutoff and s
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 | Output | Description |
 |---------|------------|
@@ -47,14 +47,14 @@ Identification assumption: **Covariates must evolve smoothly at the cutoff and s
 
 ---
 
-## 🧠 Key Findings (Summary)
+## Key Findings (Summary)
 
 - There is a **clear discontinuity in class size** at the 40-student threshold.
 - The resulting RDD shows that **smaller classes increase test scores**, consistent with Angrist & Lavy (1999).
 - Covariates show **no meaningful jumps**, supporting the **RDD identification assumption**.
 - The effect is smaller than a naïve comparison, which would be biased by sorting.
 
----
 
-## 📂 Repo Structure
+
+
 
